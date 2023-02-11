@@ -12,7 +12,7 @@
   ],
   "modes": {
     "window": {
-      "title": "neutralino_vite_vue_ts_template",
+      "title": "D3 Diagrams",
       "width": 800,
       "height": 600,
       "minWidth": 400,
@@ -21,7 +21,7 @@
     }
   },
   "cli": {
-    "binaryName": "neutralino_vite_vue_ts_template",
+    "binaryName": "d3d",
     "resourcesPath": "/frontend/dist/",
     "extensionsPath": "/extensions/",
     "clientLibrary": "/frontend/public/neutralino.js",
