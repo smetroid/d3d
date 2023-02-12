@@ -1,7 +1,7 @@
 {
   "applicationId": "js.neutralino.zero",
   "version": "1.0.0",
-  "defaultMode": "window",
+  "defaultMode": "chrome",
   "documentRoot": "/frontend/dist",
   "url": "/",
   "enableServer": true,
@@ -17,7 +17,7 @@
       "height": 600,
       "minWidth": 400,
       "minHeight": 200,
-      "icon": "/frontend/src/assets/logo.png"
+      "icon": "frontend/src/assets/logo.png"
     }
   },
   "cli": {
