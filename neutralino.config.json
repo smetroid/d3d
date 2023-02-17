@@ -6,6 +6,7 @@
   "url": "/",
   "enableServer": true,
   "enableNativeAPI": true,
+  "port": 18067,
   "nativeAllowList": [
     "app.*",
     "os.*"
@@ -17,7 +18,15 @@
       "height": 600,
       "minWidth": 400,
       "minHeight": 200,
-      "icon": "frontend/src/assets/logo.png"
+      "icon": "/frontend/src/assets/cmdr_logo.png"
+    },
+    "chrome": {
+      "title": "D3 Diagrams",
+      "width": 800,
+      "height": 600,
+      "minWidth": 400,
+      "minHeight": 200,
+      "icon": "/frontend/src/assets/cmdr_logo.png"
     }
   },
   "cli": {
