@@ -28,7 +28,7 @@ Here are some of the main (the ones I remember from memory) tools/libraries used
 
 Still a work in progress, but here are some of the main things that need work
 
-[ ] Cluster rendering, I may need to look at a new library to fix this issue.  Hitting/pressing the esc (re-renders the diagram) key a few times fixes the issue, but I haven't been able to figure out how to properly fix the problem
+[ ] Cluster rendering, I may need to look at a new library to fix this issue.  Hitting/pressing the `esc` key (re-renders the diagram) a few times fixes the issue, but I haven't been able to figure out how to properly fix the problem
 
 [ ] Some vuetify.js animations still needs some TLC
 
