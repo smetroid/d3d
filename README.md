@@ -11,11 +11,17 @@ Since my Unix days `vi/vim` has been my editor of choice and since those days I 
 Here are some of the main (the ones I remember from memory) tools/libraries used to build this project, not in any specific order.
 
 [vuetify.js](https://vuetifyjs.com/en/) - component framework used
+
 [d3-dagre](https://github.com/dagrejs/dagre-d3) - (deprecated) main tool used to generate the diagram
+
 [d3.js](https://d3js.org) - main library used by d3-dagre
+
 [neutralinojs](https://neutralino.js.org) - cross-platform tool to build on windows, linux, and mac.  While D3D runs fine on a Windows machine with a google chrome browser tab open, the same is not true on MacOS and Linux.  I used neutralinojs and it's chrome option as a solution for the shortcuts(events) issues I experience
+
 [rethinkdb](https://rethinkdb.com) - backend database used to save the diagrams
+
 [samus.api]() - golang api server used to communicated with the rethinkdb database
+
 [velocity](http://velocityjs.org/) - used for some of svg animation
 
 ## Issues
