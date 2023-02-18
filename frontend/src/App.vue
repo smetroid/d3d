@@ -445,7 +445,7 @@ export default {
       console.log('creating a new localDiagram')
       var g = new dagreD3.graphlib.Graph({"directed":true,"multigraph":true,"compound":true})
       g.setGraph({})
-      g.graph().rankdir = ''
+      g.graph().rankdir = 'TB'
       g.graph().ranksep = '50' 
       g.graph().nodesep = '10'
       g.setDefaultEdgeLabel(function () { return {} })

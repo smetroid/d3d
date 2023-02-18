@@ -194,7 +194,7 @@ export default {
         "nodes": [], 
         "edges": [], 
         "value": {
-          "rankdir":'','ranksep':'','nodesep':''
+          "rankdir":'50','ranksep':'TB','nodesep':'10'
         }
       },
       graphOptions: [],

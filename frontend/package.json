@@ -32,7 +32,6 @@
     "vue-cli-plugin-vuetify": "~2.0.5",
     "vue-template-compiler": "^2.6.11",
     "vuetify-loader": "^1.3.0",
-    "@vitejs/plugin-vue2": "^2.3.3",
     "neutralinojs-types": "^1.1.1"
   },
   "eslintConfig": {
