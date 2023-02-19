@@ -1,8 +1,5 @@
-run-dev-1st:
-	cd frontend && yarn run serve
+start-dev:
+	npm run dev
 
-run-dev-2nd:
-	yarn run serve:neu
-
-run-build:
-	neu build --release
+build:
+	npm run build-release
